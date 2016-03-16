@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://GoneFormOfMan.github.io
+title: GoneFormOfMan
+tagline: Me you dancing
+description: My awesome new site
+paginate: 5
